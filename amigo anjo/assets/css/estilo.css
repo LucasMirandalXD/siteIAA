@@ -1,0 +1,56 @@
+/* Estilo do corpo do documento */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo do cabeçalho */
+h1 {
+    color: #438FCA;
+}
+
+/* Estilo da navegação */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #438FCA;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    display: block;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #327BBB;
+}
+
+/* Estilo das seções */
+section {
+    padding: 50px;
+}
+
+section h2 {
+    color: #438FCA;
+}
+
+/* Estilo da galeria de fotos */
+.galeria-fotos {
+    /* Estilos da galeria */
+}
+
+/* Estilo do rodapé */
+footer {
+    background-color: #438FCA;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
